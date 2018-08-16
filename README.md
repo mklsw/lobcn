@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 #目录
 ##基础部分
 ###0.0 Python 编程学习工具
+=======
+# lobcn
+Python Learning  Note
+
+##目录
+###基础部分
+####Python 编程学习工具
+>>>>>>> da8dec041790d07afb26693f09db6a10cb7e13b0
 
 Python  https://www.python.org/ 
 
