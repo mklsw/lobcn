@@ -1,8 +1,8 @@
-##目录
+## 目录
 
-###基础部分
+### 基础部分
 
-####Python 编程学习工具
+#### 0.0 Python 编程学习工具
 
 Python  https://www.python.org/ 
 
@@ -16,7 +16,7 @@ GitHub https://github.com/
 
 Visual Studio Code https://code.visualstudio.com/
 
-###0.1 Python 学习资源
+### 0.1 Python 学习资源
 
 Python Tutorial  https://docs.python.org/3/tutorial/index.html
 
@@ -26,7 +26,7 @@ Python 运算过程 http://pythontutor.com/visualize.html
 
 Python 在线测试https://www.sololearn.com/Play/Python/ 
 
-###1.0  Python中的几种数据类型
+### 1.0  Python中的几种数据类型
 
 数字
 
@@ -40,7 +40,7 @@ Python 在线测试https://www.sololearn.com/Play/Python/
 
 参考：
 
-###1.1 Python 中的数据运算
+### 1.1 Python 中的数据运算
 
 算数运算
 
