@@ -6,3 +6,11 @@
 参考：https: // docs.python.org / 3 / library / stdtypes.html  # typesnumeric
 
 ### 整数 （int）
+
+注意除法永远返回一个浮点数，如果需要返回整数需要用//
+
+% 用于计算余数
+
+** 用来计算幂乘方
+
+整数和小数一起计算时会转化成小数
