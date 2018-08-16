@@ -2,7 +2,7 @@
 Python Learning  Note
 
 ##目录
-### 基础部分
+###基础部分
 ####Python 编程学习工具
 
 Python  https://www.python.org/ 
