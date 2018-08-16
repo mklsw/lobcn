@@ -2,9 +2,8 @@
 Python Learning  Note
 
 ##目录
-## 基础部分
-
-####0    Python 编程学习工具
+### 基础部分
+####Python 编程学习工具
 
 Python  https://www.python.org/ 
 
@@ -16,7 +15,10 @@ Git https://git-scm.com/downloads
 
 GitHub https://github.com/
 
-Visual Studio Code https://code.visualstudio.com
+Visual Studio Code https://code.visualstudio.com/
+
+ 
+ 
 
 
 
@@ -25,6 +27,8 @@ Visual Studio Code https://code.visualstudio.com
 Python Tutorial  https://docs.python.org/3/tutorial/index.html
 
 Python 汉化文档  https://pythoncaff.com/docs/tutorial/3.7.0
+
+
 
 
 ####1.0  Python中的几种数据类型
