@@ -1,6 +1,9 @@
 ##目录
+
 ###基础部分
+
 ####Python 编程学习工具
+
 Python  https://www.python.org/ 
 
 Pycharm https://www.jetbrains.com/pycharm/download/
@@ -12,6 +15,7 @@ Git https://git-scm.com/downloads
 GitHub https://github.com/
 
 Visual Studio Code https://code.visualstudio.com/
+
 ###0.1 Python 学习资源
 
 Python Tutorial  https://docs.python.org/3/tutorial/index.html
