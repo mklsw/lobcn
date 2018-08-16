@@ -19,8 +19,9 @@ Python Tutorial  https://docs.python.org/3/tutorial/index.html
 
 Python 汉化文档  https://pythoncaff.com/docs/tutorial/3.7.0
 
+Python 运算过程 http://pythontutor.com/visualize.html 
 
-
+Python 在线测试https://www.sololearn.com/Play/Python/ 
 
 ###1.0  Python中的几种数据类型
 
