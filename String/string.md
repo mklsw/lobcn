@@ -13,6 +13,7 @@ Python 内置的类 "Str" 字符串有很多便利的功能，它的表示方法
 1. 遇到特殊字符时，Python 用反斜杠"\" 转义字符 
 
 
+
     >>> 'doesn\'t'
     "doesn't"
     
@@ -26,6 +27,9 @@ Python 内置的类 "Str" 字符串有很多便利的功能，它的表示方法
     '"yes,"they said.'
 
 
+列表
+
+![string](https://raw.githubusercontent.com/mklsw/lobcn/master/Pictures/string_escape.png)
 
 
 A double quoted string literal can contain single quotes without any fuss and likewise single
