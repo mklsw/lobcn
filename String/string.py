@@ -5,21 +5,35 @@
 # """ or ''' 主要用来指定多行的字符串
 
 
-print ('test')
+# print ('test')
+#
+# print("test")
+#
+# abc = '''
+# Today is Aug 16 2018. I's a bad day.
+#
+# I miss you.
+#
+# What are you doing now?
+#
+# '''
+#
+# print(abc)
 
-print("test")
 
-abc = '''
-Today is Aug 16 2018. I's a bad day. 
+# \ 续行符，一般用于句尾
 
-I miss you.
+# x = "Python is a very good program language , i want to learn it ," \
+#  "i need use it to build or develop a good program"
+#
+# print(x)
 
-What are you doing now.
 
-'''
+# \a 响铃
 
-print(abc)
+y = "it's middle night , \a i will go to sleep."
 
+print(y)
 
 
 

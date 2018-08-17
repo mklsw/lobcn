@@ -11,8 +11,12 @@
 
 ### 字符串的转义
 
+所谓转义就是指让某个符号不再表示某个含义，而是表示另外一个含义。转义符
+
+
+
 转义字符 | 描述 |
-:-------:|:-------:|
+:-------|:-------|
  \ (在行尾时)|续行符号|
   \\  |反斜杠符号 |
  \'| 单引号|
@@ -29,19 +33,11 @@
   \oyy |   八进制数，yy代表的字符，例如：\012 代表换行 |
   \xyy | 十进制yy代表的字符，例如: \x0a 代表换行 |
   \ other | 其他的字符以普通格式输出 |
-  
-  
-  
-  
- 
- 
- 
-  
-
-![string](https://raw.githubusercontent.com/mklsw/lobcn/master/String/string_escape.png)
 
 
 ### String Method 
+
+
 
 copy
 
@@ -56,3 +52,7 @@ copy
 切片
 
 大小写
+
+Reference:
+
+http://wiki.jikexueyuan.com/project/start-learning-python/106.html 
