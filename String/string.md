@@ -11,20 +11,11 @@
 
 ### 字符串的转义
 
-1. 遇到特殊字符时，Python 用反斜杠"\" 转义字符 
+    转义字符 | 描述 |
+    :--------|--------:|
+    \ (在行尾时)|续行符号|
+    \\      |反斜杠符号 |
 
-    
-    >>> 'doesn\'t'
-    "doesn't"
-        
-    >>> "doesn't"
-    "doesn't"
-    
-    >>> '"yes,"they said.'
-    '"yes,"they said.'
-    
-    >>> "\"yes,\"they said."
-    '"yes,"they said.'
 
 ![string](https://raw.githubusercontent.com/mklsw/lobcn/master/String/string_escape.png)
 
