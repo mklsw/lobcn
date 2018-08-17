@@ -1,12 +1,33 @@
-## String
+## String 字符串 
+Python 内置的类 "Str" 字符串有很多便利的功能，它的表示方法为单引号，双引号和三引号.
 
-Python has a built-in string class named "str" with many handy features.
-
-    >>>help(str)
+    ''
+    ""
+    '''
+    """
     
-String literals can be enclosed by either double or single quotes,
-although single quotes are more commonly used.
-Backslash escapes work the usual way within both single and double quoted literals.
+字符串创建以后是不可更改的. 
+
+### 字符串的转义
+
+1. 遇到特殊字符时，Python 用反斜杠"\" 转义字符 
+
+
+    >>> 'doesn\'t'
+    "doesn't"
+    
+    >>> "doesn't"
+    "doesn't"
+    
+    >>> '"yes,"they said.'
+    '"yes,"they said.'
+    
+    >>> "\"yes,\"they said."
+    '"yes,"they said.'
+
+
+
+
 A double quoted string literal can contain single quotes without any fuss and likewise single
  quoted string can contain double quotes. A string literal can span multiple lines,but there
  must be a backslash \ at the end of each line to escape the new line.String literals inside 
