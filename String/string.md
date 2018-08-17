@@ -29,24 +29,10 @@ Python 内置的类 "Str" 字符串有很多便利的功能，它的表示方法
 
 列表
 
-![string](https://raw.githubusercontent.com/mklsw/lobcn/master/Pictures/string_escape.png)
+![string] (https://raw.githubusercontent.com/mklsw/lobcn/master/Pictures/string_escape.png)
 
 
-A double quoted string literal can contain single quotes without any fuss and likewise single
- quoted string can contain double quotes. A string literal can span multiple lines,but there
- must be a backslash \ at the end of each line to escape the new line.String literals inside 
- triple quotes,""" or ''' ,can span multiple lines to text.
- 
- 
-    ''
-    ""
-    '''
-    """
-    >>> print("hello 'Jun'")
-    hello 'Jun'
-    
-    >>> print('hello "Tom"')
-    hello "Tom"
+
     
 Python string are "immutable" which means they cannot be changed after they are created.
 Since string can't be changed, we construct "new" string as we go to represent computed
