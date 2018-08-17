@@ -1,4 +1,4 @@
-### String
+## String
 
 Python has a built-in string class named "str" with many handy features.
 
@@ -43,13 +43,13 @@ If the index is out of bounds for the string ,Python raises an error.
      IndexError: string index out of range
 
 
-#### String Method 
+### String Method 
 
 copy
 
 拼接
 
-查找
+查找 find
 
 统计
 
