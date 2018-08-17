@@ -13,8 +13,6 @@
 
 1. 遇到特殊字符时，Python 用反斜杠"\" 转义字符 
 
-
-
     >>> 'doesn\'t'
     "doesn't"
     
@@ -27,9 +25,7 @@
     >>> "\"yes,\"they said."
     '"yes,"they said.'
 
-
-
-![string](https://raw.githubusercontent.com/mklsw/lobcn/master/Pictures/string_escape.png)
+![string](https://raw.githubusercontent.com/mklsw/lobcn/master/String/string_escape.png)
 
 
 
