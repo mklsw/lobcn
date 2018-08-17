@@ -18,27 +18,17 @@ Visual Studio Code https://code.visualstudio.com/
 
 ### 0.1 Python 学习资源
 
+廖雪峰Python教程 https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+
 Python Tutorial  https://docs.python.org/3/tutorial/index.html
 
-Python 汉化文档  https://pythoncaff.com/docs/tutorial/3.7.0
+Python 入门教程中文版  https://pythoncaff.com/docs/tutorial/3.7.0
 
 Python 运算过程 http://pythontutor.com/visualize.html 
 
-Python 在线测试https://www.sololearn.com/Play/Python/ 
+Python 在线挑战测试 https://www.sololearn.com/Play/Python/ 
 
-### 1.0  Python中的几种数据类型
 
-数字
-
-字符串
-
-列表
-
-元组
-
-字典
-
-参考：
 
 ### 1.1 Python 中的数据运算
 
