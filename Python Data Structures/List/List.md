@@ -12,6 +12,7 @@ Reference：
 
     example:  list = [1,4,5,19,29,290,39]
     
+   
     >>>help(list)
     
 ### List Methods
