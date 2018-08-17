@@ -4,16 +4,13 @@ Python has a great built-in list type named "list".List literals are writen with
 Lists work similarly to strings--use the len ( ) function and square brackets [ ] to access data,with
 the first element at index 0.
 
-Reference：
-1. https://docs.python.org/3.7/library/stdtypes.html#list
-
-2. https://developers.google.com/edu/python/lists 
-
-
-    example:  list = [1,4,5,19,29,290,39]
-    
+    colors = ['red', 'blue', 'green']
+    print(colors[0])  ## red
+    print(colors[2])  ## green
+    print(len(colors))  ## 3
    
-    >>>help(list)
+
+
     
 ### List Methods
 
@@ -38,7 +35,10 @@ Reference：
         
 
 
+Reference：
+1. https://docs.python.org/3.7/library/stdtypes.html#list
 
+2. https://developers.google.com/edu/python/lists 
 
     
     
