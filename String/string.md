@@ -1,15 +1,33 @@
-### 字符串
-一串字符串（string）是字符（characters）的序列（squence），基本上字符串就是一串词汇。
-加了引号的都是字符串,主要有三种形式，单引号，双引号和三引号，引号的开始和结束必须是同一种类型。
+### String
+
+Python has a built-in string class named "str" with many handy features.
+
+    >>>help(str)
+    
+String literals can be enclosed by either double or single quotes,
+although single quotes are more commonly used.
 
     ''
-    "" 
-    ''' 
+    ""
+    '''
     """
-三引号主要用来指定多行的字符串
+    
+Backslash escapes work the usual way within both single and double quoted literals.
+    
+    >>> print("hello world")
+    hello world
+    >>> print("hello world\n")
+    hello world
+    >>> print('hello world\n')
+    hello world
+A double quoted string literal can contain single quotes without any fuss and likewise single
+ quoted string can 
 
 
-#### 字符串的常用操作
+
+
+
+#### String Method 
 
 copy
 
@@ -24,4 +42,3 @@ copy
 切片
 
 大小写
-
