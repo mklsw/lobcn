@@ -1,12 +1,13 @@
 ## String 字符串 
-Python 内置的类 "Str" 字符串有很多便利的功能，它的表示方法为单引号，双引号和三引号.
+
+字符串的表示方法为单引号，双引号和三引号，字符串创建以后是不可更改的. 
+
 
     ''
     ""
     '''
     """
     
-字符串创建以后是不可更改的. 
 
 ### 字符串的转义
 
@@ -27,31 +28,10 @@ Python 内置的类 "Str" 字符串有很多便利的功能，它的表示方法
     '"yes,"they said.'
 
 
-列表
 
-![string] (https://raw.githubusercontent.com/mklsw/lobcn/master/Pictures/string_escape.png)
-
+![string](https://raw.githubusercontent.com/mklsw/lobcn/master/Pictures/string_escape.png)
 
 
-    
-Python string are "immutable" which means they cannot be changed after they are created.
-Since string can't be changed, we construct "new" string as we go to represent computed
-values. 
-
-    >>> print("hello" + "world")
-     helloworld
-
-Characters in a string can be accessed using the standard [ ] syntax,and  like 
-Java and C++,Python uses zero-based indexing,so if is 'hello' s[1] is 'e'.
-If the index is out of bounds for the string ,Python raises an error. 
-
-    >>> string = 'hello'
-    >>> print(string[1])
-     e
-     >>> print(string[9])
-     Traceback (most recent call last):
-     File "<stdin>", line 1, in <module>
-     IndexError: string index out of range
 
 
 ### String Method 
