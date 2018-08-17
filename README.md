@@ -16,6 +16,8 @@ GitHub https://github.com/
 
 Visual Studio Code https://code.visualstudio.com/
 
+Markdown https://coding.net/help/doc/project/markdown.html#i-8
+
 ### 0.1 Python 学习资源
 
 廖雪峰Python教程 https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
