@@ -36,9 +36,9 @@
 
 
 ### String Method 
-
-
 1. 字符串的大小写
+
+
     lower() 转换为小写
     upper() 转换为大写
     strip() 删除开头和结尾的空格
