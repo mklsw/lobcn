@@ -36,6 +36,12 @@
 
 
 ### String Method 
+Reference: https://docs.python.org/3/library/stdtypes.html#string-methods
+
+        
+    lower()
+    upper()
+    输出大小写
 
 
 
