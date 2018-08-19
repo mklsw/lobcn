@@ -36,16 +36,26 @@
 
 
 ### String Method 
+
+        print(help(str))
+        
 1. lower return a copy of the string S converted to lowercase
 
-        S.lower ---
+        S.lower 
         >>> string = "HOW ARE YOU ?"
         >>> print(string.lower())
         how are you ?
       
-2. upper 转换为大写
+2. upper Return a copy of S converted to uppercase.
 
-3. slices 切片
+        S.upper
+        >>> string = "how are you ?"
+        >>> print(string.upper())
+        HOW ARE YOU ?
+        
+        
+
+3. slices 
 
 
 

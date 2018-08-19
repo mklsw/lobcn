@@ -7,6 +7,6 @@ print(string.strip())  # strip 用来删除字符串中间开头和结尾的空�
 
 
 
-print(help(string.lower))
 
 
+print(help(str))
