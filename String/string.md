@@ -71,7 +71,6 @@ copy
 
 切片
 
-大小写
 
 Reference:
 https://docs.python.org/3/library/stdtypes.html#string-methods
