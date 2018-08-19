@@ -36,11 +36,9 @@
 
 
 ### String Method 
-Reference: https://docs.python.org/3/library/stdtypes.html#string-methods
+
 
 1. 字符串的大小写
-
-        
     lower() 转换为小写
     upper() 转换为大写
     strip() 删除开头和结尾的空格
@@ -76,5 +74,6 @@ copy
 大小写
 
 Reference:
-
+https://docs.python.org/3/library/stdtypes.html#string-methods
+https://developers.google.com/edu/python/strings
 http://wiki.jikexueyuan.com/project/start-learning-python/106.html 
