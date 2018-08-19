@@ -36,26 +36,16 @@
 
 
 ### String Method 
-1. 字符串的大小写
+1. lower return a copy of the string S converted to lowercase
 
-
-    lower() 转换为小写
-    upper() 转换为大写
-    strip() 删除开头和结尾的空格
-    
-    string = " It's a good day "
-
-    print(string.lower())  
-    it's a good day
-    
-    print(string.upper())  
-    IT'S A GOOD DAY
-    print(string.strip())
-      It's a good day
+        S.lower ---
+        >>> string = "HOW ARE YOU ?"
+        >>> print(string.lower())
+        how are you ?
       
-      
-2. 字符串的切片
+2. upper 转换为大写
 
+3. slices 切片
 
 
 
