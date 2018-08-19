@@ -38,10 +38,26 @@
 ### String Method 
 Reference: https://docs.python.org/3/library/stdtypes.html#string-methods
 
+1. 字符串的大小写
+
         
-    lower()
-    upper()
-    输出大小写
+    lower() 转换为小写
+    upper() 转换为大写
+    strip() 删除开头和结尾的空格
+    
+    string = " It's a good day "
+
+    print(string.lower())  
+    it's a good day
+    
+    print(string.upper())  
+    IT'S A GOOD DAY
+    print(string.strip())
+      It's a good day
+      
+      
+2. 字符串的切片
+
 
 
 
