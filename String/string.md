@@ -35,12 +35,15 @@
   \ other | 其他的字符以普通格式输出 |
 
 
-### String Method 
+### String Index
 
-字符串可以被索引,第一个字符索引为0，索引也可以是复数，这将导致从右边开始计算
+   字符串可以被索引,第一个字符索引为0，索引也可以是负数，这将导致从右边开始计算，如下图
 
    ![](https://raw.githubusercontent.com/mklsw/python-learning/master/String/string_slices.png)
 
+
+
+### String Method 
 
         print(help(str))
         
