@@ -11,8 +11,8 @@
 
 #### Python中的标识符(identifier)
 
-        Identifier is the name given to entities like  class,functuons,variables etc.In Python. It helps differentating one entity 
-        to another.
+        Identifier is the name given to entities like  class,functuons,variables etc.In Python. It helps differentating 
+        one entity to another.
 
 #### Python 中的标识符书写规则：
 
