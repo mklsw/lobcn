@@ -9,7 +9,7 @@ the first element at index 0.
     print(colors[2])  ## green
     print(len(colors))  ## 3
     
-![list index](https://raw.githubusercontent.com/mklsw/lobcn/master/Python%20Data%20Structures/List/list1.png)
+![list index](https://raw.githubusercontent.com/mklsw/python-learning/master/Python%20Data%20Type/List/list1.png)
     
 ### List Methods
 
