@@ -35,7 +35,7 @@
   \ other | 其他的字符以普通格式输出 |
 
 
-### String Index
+### 字符串的索引
 
    字符串可以被索引,第一个字符索引为0，索引也可以是负数，这将导致从右边开始计算，如下图
 
@@ -43,18 +43,16 @@
 
 
 
-### String Method 
+### 字符串的方法
 
         print(help(str))
         
-1. lower return a copy of the string S converted to lowercase
+1. 大小写切换
 
         S.lower 
         >>> string = "HOW ARE YOU ?"
         >>> print(string.lower())
         how are you ?
-      
-2. upper Return a copy of S converted to uppercase.
 
         S.upper
         >>> string = "how are you ?"
@@ -63,24 +61,26 @@
         
         
 
-3. slices 
+2. 复制
 
+3. 查找
 
+4. 拼接 
 
-copy
-
-拼接
-
-查找 find
-
-统计
-
-检测
-
-切片
+5. 切片
 
 
 Reference:
-https://docs.python.org/3/library/stdtypes.html#string-methods
-https://developers.google.com/edu/python/strings
-http://wiki.jikexueyuan.com/project/start-learning-python/106.html 
+
+  https://docs.python.org/3/library/stdtypes.html#string-methods
+  
+  https://docs.python.org/3/library/stdtypes.html#textseq
+  
+  https://developers.google.com/edu/python/strings
+  
+  https://www.programiz.com/python-programming/string
+  
+  https://www.w3schools.com/python/python_strings.asp
+  
+  http://wiki.jikexueyuan.com/project/start-learning-python/106.html 
+  
