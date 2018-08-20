@@ -37,6 +37,8 @@
 
 ### String Method 
 
+字符串可以被索引,第一个字符索引为0，索引也可以是复数，这将导致从右边开始计算
+
         print(help(str))
         
 1. lower return a copy of the string S converted to lowercase
