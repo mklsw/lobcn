@@ -43,4 +43,15 @@ print (type(a/c)) # return the rype of a/c
 print (type(b*d)) # return the type of b*d
 
 
+a, b, c, = 5 ,3.2, "hello"
+
+print(a)
+
+print(b)
+
+print(c)
+
+
+
+
 
