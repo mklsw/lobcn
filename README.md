@@ -31,8 +31,20 @@ Python 运算过程 http://pythontutor.com/visualize.html
 Python 在线挑战测试 https://www.sololearn.com/Play/Python/ 
 
 
+### 1.0 Python 基础
 
-### 1.1 Python 中的数据运算
+  #### 1.1 string 
+  https://github.com/mklsw/python-learning/blob/master/String/string.md
+  
+  #### 1.2 list
+  https://github.com/mklsw/python-learning/blob/master/Python%20Data%20Structures/List/List.md
+  
+  #### 1.3 tuple
+  
+  #### 1.4 dictionary
+  
+
+### 2.1 Python 中的数据运算
 
 算数运算
 
