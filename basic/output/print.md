@@ -1,5 +1,8 @@
 ### print 语法
 
+
+        print(help(print))
+
     print(* objects, sep= ' ', end = '\n', file = sys.stout, flush = False)
     
 

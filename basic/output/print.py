@@ -52,6 +52,9 @@ print(b)
 print(c)
 
 
+print(help(print))
+
+
 
 
 
