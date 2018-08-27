@@ -1,32 +1,48 @@
-# a = 10
+# # a = 10
+# #
+# # b = 20
+# #
+# # # if 语句，if 逻辑 加冒号
+# #
+# # if b > a:
+# #     print('b大于a')
+# # if b < 30:
+# #     print('b小于30')
+# #
 #
-# b = 20
+# age = int(input("how old are you ?"))
 #
-# # if 语句，if 逻辑 加冒号
+# if age < 21:
+#     print("you can not smoke")
 #
-# if b > a:
-#     print('b大于a')
-# if b < 30:
-#     print('b小于30')
+# elif age == 21:
 #
+#     print("you are now 21 , you can so to smoke")
+#
+# elif age == 100:
+#     print("you are too old ,please not smoke!")
+#
+# else:
+#     print("you can smoke")
 
-age = int(input("how old are you ?"))
 
-if age < 21:
-    print("you can not smoke")
+number = 23
 
-elif age == 21:
+guess = int(input('Enter an interger:'))
 
-    print("you are now 21 , you can so to smoke")
+if guess == number:
+    print('Congratulations, you guessed it.')
 
-elif age == 100:
-    print("you are too old ,please not smoke!")
+    print('But you do not win any prizes!')
+
+elif guess < number:
+
+    print('No, it is a little higher than that')
 
 else:
-    print("you can smoke")
+    print('No,it is a little lower that that')
 
-
-
+print('Done')
 
 
 
