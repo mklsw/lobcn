@@ -24,25 +24,52 @@
 #
 # else:
 #     print("you can smoke")
+#
+#
+# number = 23
+#
+# guess = int(input('Enter an interger:'))
+#
+# if guess == number:
+#     print('Congratulations, you guessed it.')
+#
+#     print('But you do not win any prizes!')
+#
+# elif guess < number:
+#
+#     print('No, it is a little higher than that')
+#
+# else:
+#     print('No,it is a little lower that that')
+#
+# print('Done')
+#
 
+number = 90
 
-number = 23
+running = True
 
-guess = int(input('Enter an interger:'))
+while running:
 
-if guess == number:
-    print('Congratulations, you guessed it.')
+    guess = int(input('Enter an integer:'))
 
-    print('But you do not win any prizes!')
+    if guess == number:
+        print('Congratulations, You guessed it!')
 
-elif guess < number:
+        running = False
 
-    print('No, it is a little higher than that')
+    elif guess < number:
+        print('No , it is a little higher than that.')
+
+    else :
+
+        print('No, it is a little lower than that.')
 
 else:
-    print('No,it is a little lower that that')
 
-print('Done')
+    print('The while loop is over.')
+
+print('Done.')
 
 
 
