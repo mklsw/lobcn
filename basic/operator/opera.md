@@ -51,3 +51,21 @@ Logic operators are the ~and~ ,~or~,~not~
 同时真则为真
 同假则为假
 
+#### 位移运算
+
+####  赋值运算符
+
+assign values to variable
+
+#### 特殊运算符
+
+    is or not
+    
+    in or not in
+
+
+
+
+
+
+
