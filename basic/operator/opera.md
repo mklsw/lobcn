@@ -62,6 +62,11 @@ assign values to variable
     is or not
     
     in or not in
+    
+
+
+
+https://wizardforcel.gitbooks.io/w3school-python/content/5.html#ysf3 
 
 
 
