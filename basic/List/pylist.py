@@ -48,4 +48,4 @@
 #
 # list [0:2] = 'z'
 #
-# print(list1)
+# print(lis)

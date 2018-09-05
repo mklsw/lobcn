@@ -1,4 +1,5 @@
 ## List 
+列表是一系列按特定顺序排列的元素组成。
 
 Python has a great built-in list type named "list".List literals are writen with square brackets[ ].
 Lists work similarly to strings--use the len ( ) function and square brackets [ ] to access data,with

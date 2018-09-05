@@ -6,7 +6,7 @@
 
 ### 基础部分
 
-#### 0.0 Python 编程学习工具
+####  Python 编程学习工具
 
 Python  https://www.python.org/ 
 
@@ -22,7 +22,7 @@ Visual Studio Code https://code.visualstudio.com/
 
 Markdown https://coding.net/help/doc/project/markdown.html#i-8
 
-### 0.1 Python 学习资源
+###  Python 学习资源
 
 https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
 
@@ -37,17 +37,27 @@ https://www.sololearn.com/Play/Python/
 https://docs.python.org/3/tutorial/index.html
 
 
-### 1.0 Python 基础
+###  1.0 Python 基础
 
-  #### 1.1 string 
+ Python 的安装 常用编辑器  Git 工具的使用
  
-  #### 1.2 list
-  
-  #### 1.3 tuple
-  
-  #### 1.4 dictionary
-  
-
-### 2.1 Python 中的数据运算
-
+ ### 2.0  变量和简单数据类型
+ 
+ 变量
+ 字符串
+ 整数和浮点数
+ 注释
+ 
+ #### 3.0 列表
+ 
+ 列表是什么及如何使用其中的元素
+ 增加删除 排序
+ 列表的长度
+ 
+ #### 4.0 列表的控制
+ 
+ for 循环
+ 
+ while
+ 
 
